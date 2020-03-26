@@ -1,0 +1,27 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||raindrop.io^
+||wikimedia.org^
+||pushbullet.com^
+||githubusercontent.com^
+||wikipedia.org^
+||imap.gmail.com^
+||smtp.gmail.com^
+||inoreader.com^
+||learnjapanese.aiyori.org^
+||medscape.com^
+||pushbullet.com^
+||telegram.org^
+||gitbooks.io^
+||github.io^
+||kaggle.com^
+||atom.io^
+||sci-hub.tw^
+||steamcommunity.com^
+||steampowered.com^
+||radiopaedia.org^
+||trello.com^
+@@||qq.com^
+@@||tencent.com^
+@@||wechat.com^
+@@||songshuhui.net^
